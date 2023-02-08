@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+
+}
+
+.mainbox {
+    width: 70%;
+    height: 80vh;
+    margin: 50px auto;
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox header {
+    width: 100%;
+    height: 12%;
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.mainbox header .firstlogo {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox header .firstlogo h2 {
+    color: rgb(82, 82, 144);
+    background-color: rgb(236, 236, 236);
+    font-size: 20px;
+}
+
+.mainbox header .firstnav {
+    width: 50%;
+    height: 100%;
+    margin-top: 15px;
+
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox header .firstnav ul {
+    background-color: rgb(236, 236, 236);
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainbox header .firstnav ul li {
+    padding-top: 30px;
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox header .firstnav ul li a {
+    padding-top: 20px;
+    background-color: rgb(236, 236, 236);
+    color: rgb(82, 82, 144);
+    text-decoration: none;
+    padding: 20px;
+    font-size: 17px;
+}
+
+.mainbox header .firstnav ul li a:hover {
+    background-color: rgb(236, 236, 236);
+    color: rgb(82, 82, 144);
+    transition: 0.5s;
+    font-size: x-large;
+}
+
+.mainbox section {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .secondbox {
+    width: 50%;
+    height: 100%;
+
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .thirdbox {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(236, 236, 236);
+
+
+}
+
+.mainbox section .thirdbox img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+
+}
+
+.mainbox section .secondbox .secondbox1 {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .secondbox .secondbox1a {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .secondbox .secondbox1b {
+    width: 100%;
+    height: 50%;
+
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox section .secondbox .secondbox1b p {
+    font-size: 60px;
+    background-color: rgb(236, 236, 236);
+    font-weight: bold;
+    padding-left: 50px;
+    margin-top: 30px;
+    padding-top: 40px;
+    color: rgb(23, 23, 59);
+
+}
+
+.mainbox section .secondbox .secondbox2 {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox section .secondbox .secondbox2a {
+    height: 40%;
+    width: 100%;
+
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox section .secondbox.secondbox2a .secondbox2ax {
+    height: 100%;
+    width: 50%;
+
+    background-color: rgb(236, 236, 236);
+}
+
+.mainbox section .secondbox .secondbox2a .secondbox2ax ul {
+    background-color: rgb(236, 236, 236);
+    list-style-type: none;
+    padding-left: 75px;
+    padding-top: 80px;
+
+}
+
+.mainbox section .secondbox .secondbox2a .secondbox2ax ul li {
+    background-color: rgb(236, 236, 236);
+    margin-top: 20px;
+}
+
+.mainbox section .secondbox .secondbox2a .secondbox2ax ul li a {
+    background-color: rgb(82, 82, 144);
+    border: 15px solid rgb(82, 82, 144);
+    color: white;
+    text-decoration: none;
+}
+
+.mainbox section .secondbox .secondbox2a .secondbox2ax ul li a:hover {
+    background-color: rgb(82, 82, 144);
+    color: white;
+    transition: 0.5s;
+    font-size: large;
+
+}
+
+.mainbox section .secondbox .secondbox2b {
+    width: 100%;
+    height: 40%;
+
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .secondbox .secondbox2c {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(236, 236, 236);
+
+}
+
+.mainbox section .secondbox .secondbox2c ul {
+    background-color: rgb(236, 236, 236);
+    list-style-type: none;
+    display: flex;
+    padding-left: 50px;
+
+}
+
+.mainbox section .secondbox .secondbox2c ul li {
+    padding-top: 20px;
+    background-color: rgb(236, 236, 236);
+    padding-left: 5px;
+}
+
+.mainbox section .secondbox .secondbox2c ul li a {
+    background-color: rgb(236, 236, 236);
+    color: rgb(82, 82, 144);
+
+    font-size: 17px;
+    display: flex;
+
+}
+
+.mainbox section .secondbox .secondbox2c ul li a:hover {
+    background-color: rgb(236, 236, 236);
+    color: rgb(82, 82, 144);
+    transition: 0.5s;
+    font-size: x-large;
+}
